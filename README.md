@@ -1,2 +1,2 @@
 # saray.cubillos-udea.edu.co
-Proyecto de informática
+Proyecto de investigación,informática
